@@ -289,12 +289,3 @@ RFID-Based-Automatic-Door-System/
 - RFID-based entry prototypes.
 - Embedded systems learning.
 
-## License
-
-This project is distributed under the MIT License. See the LICENSE file.
-
-## Author
-
-Developed as an educational IoT project.
-
-**Project Title:** RFID-Based Automatic Door System
